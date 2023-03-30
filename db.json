@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Rakha Ridwan Virgiandi",
+            "email": "rakhardwan@gmail.com",
+            "birth_date": "08/05/2003",
+            "country": "Indonesia"
+        },
+        {
+            "id": 2,
+            "name": "Monkey D. Luffy",
+            "email": "luffystrawhat@onepiece.com",
+            "birth_date": "05/05/2003",
+            "country": "Brazil"
+        },
+        {
+            "id": 3,
+            "name": "Roronoa Zoro",
+            "email": "roronoazoro@pirates.shp",
+            "birth_date": "11/11/2000",
+            "country": "Japan"
+        },
+        {
+            "id": 4,
+            "name": "Nami",
+            "email": "namicatburglar@pirates.shp",
+            "birth_date": "03/07/2004",
+            "country": "Swedish"
+        },
+        {
+            "id": 5,
+            "name": "Usopp",
+            "email": "godusopp@pirates.shp",
+            "birth_date": "01/04/2003",
+            "country": "South Africa"
+        },
+        {
+            "id": 6,
+            "name": "Vinsmoke Sanji",
+            "email": "sanjikuroashi@pirates.shp",
+            "birth_date": "02/03/2000",
+            "country": "France"
+        },
+        {
+            "id": 7,
+            "name": "Eren Jaeger",
+            "email": "erenjaeger@eldians.snk",
+            "birth_date": "30/03/2003",
+            "country": "Shiganshina"
+        },
+        {
+            "id": 8,
+            "name": "Mikasa Ackerman",
+            "email": "mikasaackerman@eldians.snk",
+            "birth_date": "10/02/2003",
+            "country": "Shiganshina"
+        },
+        {
+            "id": 9,
+            "name": "Armin Arlert",
+            "email": "arminarlert@eldians.snk",
+            "birth_date": "03/11/2003",
+            "country": "Shiganshina"
+        },
+        {
+            "id": 10,
+            "name": "Levi Ackerman",
+            "email": "leviackerman@eldians.snk",
+            "birth_date": "25/12/1990",
+            "country": "Underground"
+        },
+        {
+            "id": 11,
+            "name": "Itadori Yuji",
+            "email": "itadoriyuji@sorcerer.jjk",
+            "birth_date": "20/03/2003",
+            "country": "Japan"
+        },
+        {
+            "id": 12,
+            "name": "Nobara Kugisaki",
+            "email": "nobarakugisaki@sorcerer.jjk",
+            "birth_date": "07/08/2003",
+            "country": "Japan"
+        },
+        {
+            "id": 13,
+            "name": "Satoru Gojo",
+            "email": "satorugojo@sorcerer.jjk",
+            "birth_date": "07/12/1989",
+            "country": "Japan"
+        }
+    ]
+}
